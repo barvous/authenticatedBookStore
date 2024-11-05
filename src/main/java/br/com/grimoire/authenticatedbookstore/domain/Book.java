@@ -17,6 +17,8 @@ public class Book {
 
     private String summary;
 
+    private Double price;
+
     private Author author;
 
     private String numberOfPages;
